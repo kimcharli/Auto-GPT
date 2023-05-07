@@ -203,6 +203,8 @@ docker run -it --env-file=.env -v $PWD:/app --rm auto-gpt --gpt3only --continuou
 Simply run the startup script in your terminal. This will install any necessary Python
 packages and launch Auto-GPT.
 
+It is recommended to run within virtual environment.
+
 - On Linux/MacOS:
 
         :::shell
